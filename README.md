@@ -69,7 +69,7 @@ Using the **Northwind (retail/sales)** and **World (global demographics)** datab
 - Combined tables (Customers, Orders, Products) using **JOINs** to create complete reports  
 - Aggregated data using `GROUP BY` to calculate:
   - Number of products per category
-  - Sales volume and product demand 【1-df0065】  
+  - Sales volume and product demand   
 
 ---
 
@@ -80,7 +80,7 @@ Using the **Northwind (retail/sales)** and **World (global demographics)** datab
   - Countries with highest life expectancy
 - Used filtering and aggregation techniques to:
   - Compare demographic trends
-  - Extract meaningful global insights 【1-df0065】  
+  - Extract meaningful global insights  
 
 ---
 
